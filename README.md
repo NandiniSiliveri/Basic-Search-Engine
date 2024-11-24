@@ -12,7 +12,7 @@ This is a simple command-line search engine implemented in Java using data struc
 ## Project Structure
 - src/ : Contains the source code for the search engine, including the main file and helper classes for data structure operations.
 - data/ : Includes the `topics.txt` file, which stores the searchable topics and their descriptions.
-- bin/ : The directory where compiled `.class` files are stored after compilation.
+
 
 ## Files Overview
 - **`Main.java`**: The entry point of the application that handles user interaction and initiates the search process.
