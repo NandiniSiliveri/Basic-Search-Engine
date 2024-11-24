@@ -1,3 +1,4 @@
+i<<<<<<< HEAD
 # Java Search Engine
 
 ## Description
@@ -17,3 +18,6 @@ This is a simple command-line search engine implemented in Java using data struc
 - **`Main.java`**: The entry point of the application that handles user interaction and initiates the search process.
 - **`DataLoader.java`**: A utility class responsible for reading and processing data from the `topics.txt` file.
 - **`SearchEngine.java`**: Implements the core search functionality, leveraging data structures like arrays and hash maps.
+=======
+>>>>>>> cee737698c58d00365fb5fbbaeb4f6c4d952b324
+# Basic-Search-Engine
